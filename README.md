@@ -29,7 +29,7 @@ Este repositorio contiene scripts en Python para modelar y comparar procesos fin
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/nombre-del-repositorio.git
+   git clone https://github.com/jimenaamr/ecuaciones_diferenciales_estocasticas.git
    ```
 
 2. Instala las dependencias necesarias:
